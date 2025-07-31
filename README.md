@@ -62,6 +62,6 @@ Technologies: `Streamlit`, `Python`, `Groq`, `Together.ai`, `asyncio`, `JSON`, `
 
 ## 📍 Contact & Links
 
-- GitHub: [@sirochild](https://github.com/sirochild)
+- GitHub: [@sirochild](https://github.com/sirochild)　Note: “sirochild” is my personal GitHub account as well.
 - Zenn: [@sirochild](https://zenn.dev/sirochild)
 
